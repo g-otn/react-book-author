@@ -18,6 +18,7 @@ This repository is my result project from Alura's [React part 1](https://cursos.
 # Built with
 - [create-react-app](https://github.com/facebook/create-react-app/)
 - [alberto-alura/cdcadmin-api](https://github.com/alberto-alura/cdcadmin-api)
+- [mroderick/PubSubJS](https://github.com/mroderick/PubSubJS)
 - [Pure CSS](https://purecss.io)' Responsive Side Menu layout
 
 # Acknowledgements
