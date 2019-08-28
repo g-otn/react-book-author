@@ -15,10 +15,10 @@ This is my result project from Alura's [React part 1](https://cursos.alura.com.b
 2. Install the project's dependencies: `npm i` (might take a while)
 3. Start the app: `npm start`
 
-
 # Built with
 - [create-react-app](https://github.com/facebook/create-react-app/)
 - [alberto-alura/cdcadmin-api](https://github.com/alberto-alura/cdcadmin-api)
+- [mroderick/PubSubJS](https://github.com/mroderick/PubSubJS)
 - [Pure CSS](https://purecss.io)' Responsive Side Menu layout
 
 # Acknowledgements
