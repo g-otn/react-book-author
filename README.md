@@ -3,7 +3,7 @@ Very simple book/author registration single page application using React and pub
 
 The application sends and retrives form data to  [alberto-alura/cdcadmin-api](https://github.com/alberto-alura/cdcadmin-api), which stores book and author data.
 
-This repository is my result project from Alura's [React part 1](https://cursos.alura.com.br/course/react) course. ([Part 2 project](https://github.com/g-otn/Instalura))
+This repository is my result project from Alura's [React part 1](https://cursos.alura.com.br/course/react) course. ([Part 2/3 project](https://github.com/g-otn/Instalura))
 
 ***Veja este README em [Português Brasileiro](https://github.com/g-otn/react-book-author/blob/master/README.pt-BR.md).***
 
@@ -21,4 +21,4 @@ This repository is my result project from Alura's [React part 1](https://cursos.
 - [Pure CSS](https://purecss.io)' Responsive Side Menu layout
 
 # Acknowledgements
-- [leluque](https://github.com/leluque) for assigning me this project's course
+- [leluque](https://github.com/leluque) for assigning me this project's course.
